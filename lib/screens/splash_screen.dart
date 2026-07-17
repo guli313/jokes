@@ -145,7 +145,9 @@ class _SplashScreenState extends State<SplashScreen>
                 ],
               ),
             ),
-          );
+          );//jj
+          //tt
+          //ee
         },
       ),
     );
